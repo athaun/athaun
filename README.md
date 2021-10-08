@@ -14,3 +14,5 @@ I am a student at University of Texas, Rio Grande Valley - Mathematics and Scien
 ## 🌐 Other stuff
 * Discord: `Asher#6411`
 * Portfolio (WIP): [athaun.tech](https://athaun.tech)
+
+![](https://hit.yhype.me/github/profile?user_id=32278830)
