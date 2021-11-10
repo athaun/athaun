@@ -1,6 +1,6 @@
-## 👋 Hey There! My name is Asher.
+## 👋 Hey There!
 I am a highschool senior, hobbyist game and web developer, and a RTS, TBS and TD enthusiast... <br>
-I am a student at University of Texas, Rio Grande Valley - Mathematics and Science Academy (quite a mouthful :D, for short, UTRGV MSA)
+I am a student at UT Rio Grande Valley - Mathematics and Science Academy.
 
 ## 🕹 Projects
 * Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), a 2D java game engine.
