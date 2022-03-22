@@ -12,6 +12,6 @@ I am a highschool senior, hobbyist game and web developer, and a RTS, TBS and TD
 
 ## Other stuff
 * Discord: `Asher#6411`
-* Portfolio (WIP): [athaun.tech](https://athaun.tech)
+* Portfolio: [athaun.tech](https://athaun.tech)
 
 ![](https://hit.yhype.me/github/profile?user_id=32278830)
