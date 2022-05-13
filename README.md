@@ -1,5 +1,5 @@
 ## About
-I am a highschool senior, hobbyist game and web developer, and a RTS, TBS and TD enthusiast... <br>
+CS major, hobbyist game and web developer, and a RTS, TBS and TD enthusiast... <br>
 
 ## Projects
 * Project manager for [Azurite](https://github.com/Games-With-Gabe-Community/Azurite), a 2D java game engine.
