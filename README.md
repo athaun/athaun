@@ -11,7 +11,7 @@ CS major, hobbyist game and web developer, and a RTS, TBS and TD enthusiast... <
 ![](generated/languages.svg)
 
 ## Other stuff
-* Discord: `Asher#6411`
+* Discord: @athaun
 * Portfolio: [athaun.tech](https://athaun.tech)
 
 ![](https://hit.yhype.me/github/profile?user_id=32278830)
