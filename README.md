@@ -1,5 +1,4 @@
 ## About
-Researcher at the University of Texas Rio Grande Valley.
 I am interested in GPU Programming (both graphics and compute), computational biology, web development and game development. 
 
 ## Projects
